@@ -40,12 +40,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Computer Science master’s graduate from Georgia State University and a multilingual developer
-         with 3+ years of experience building high-performance web and mobile applications. 
-        With a strong foundation in React, Node.js, Python, ML models, and cloud-native systems, 
-        I enjoy creating solutions that blend engineering, automation, and intelligence. 
-        I’m passionate about AI, ethical tech, and building products that make a real impact, 
-        and I’m eager to contribute to teams that value innovation and continuous learning.
+       Hi, I'm Sravya  
+Software Engineer specializing in building scalable backend systems and cloud-native applications.
+
+I design and develop high-performance APIs using Spring Boot, build responsive frontend interfaces with React, and deploy secure, scalable solutions on AWS.
+
+Currently seeking full-time Software Engineer opportunities.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
