@@ -1,6 +1,6 @@
 {
   "name": "Venkata's Portfolio",
-  "homepage": "https://Sravya263.github.io/Venkata_portfolio/",
+  "homepage": "https://lakshmisravya001.github.io/Venkata_portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy":"npm run build",
-    "deploy":"npm run deploy"
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

@@ -85,11 +85,11 @@ export const experiences = [
     ],
   },
   {
-    title: "Hexaware Tech",
-    company_name: "Software Engineer",
+    title: "Avishkar Tech Solutions",
+    company_name: "JR Software Engineer-Data SCience",
     icon: mathwork,
     iconBg: "#161329",
-    date: "Mar 2021 - Jul 2023",
+    date: "Mar 2021 - Jul 2021",
     points: [
       "Engineered high-performance web and mobile applications using React, React Native, TypeScript, and Python, driving seamless user experiences and platform scalability.",
       "Partnered with leadership to shape product vision, design core architecture, and translate strategic goals into robust technical solutions.",
